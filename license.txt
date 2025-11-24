@@ -1,0 +1,29 @@
+Personal & Shared-Revenue License (PSRL-1.0)
+Copyright (c) 2025 Sumit Pandey
+
+1. Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this repository and its contents ("the Work") to use, copy, and modify the
+   Work for personal, research, or educational purposes only, provided that this
+   copyright notice and this license text appear in all copies or substantial
+   portions of the Work.
+
+2. Non-Commercial Use:
+   You may not sell the Work or use it in any product or service that generates
+   revenue, directly or indirectly, without a separate commercial agreement
+   with the copyright holder.
+
+3. Commercial Use and Revenue Sharing:
+   If you wish to use the Work in any revenue-generating context, you must:
+   (a) contact the copyright holder (Sumit Pandey) in advance,
+   (b) obtain written permission, and
+   (c) agree on a revenue-sharing arrangement.
+   Without such written agreement, commercial use of the Work is prohibited.
+
+4. No Warranty:
+   THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+   FROM, OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS
+   IN THE WORK.
